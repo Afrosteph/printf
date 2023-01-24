@@ -1,7 +1,11 @@
 #include "main.h"
+<<<<<<< HEAD
+void print_buffer(char buffer[], int *buff_ind);
+=======
 
 void print_buffer(char buffer[], int *buff_ind);
 
+>>>>>>> 9508440c64c9a8ea3d0b0d02d5bd44bd2a74443c
 /**
  * _printf - Printf function
  * @format: format.
